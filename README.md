@@ -1,12 +1,32 @@
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+<h2 align="left">Hello Friend, My Name is "Ahmed".<br>Py Dev.</h2>
 
-- 🌱 I’m currently learning **Golang**
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-fsociety&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-fsociety&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZ6eTlyZHcwNTN6anc3bHk5NDR5OGZudGpxcXA1aW5xNnNkczRmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3zz2ihAv6L1HEE1U4G/giphy.gif"  />
 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/ahmedheshamf/?hl=en" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=222222&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Ahmed-fsociety/Ahmed-fsociety/output/snake.svg" alt="Snake animation" />
+
+###
