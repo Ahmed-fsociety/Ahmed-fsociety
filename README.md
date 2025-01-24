@@ -25,8 +25,5 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Ahmed-fsociety/Ahmed-fsociety/output/snake.svg" alt="Snake animation" />
 
 ###
