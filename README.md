@@ -9,9 +9,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZ6eTlyZHcwNTN6anc3bHk5NDR5OGZudGpxcXA1aW5xNnNkczRmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3zz2ihAv6L1HEE1U4G/giphy.gif"  />
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
