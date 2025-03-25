@@ -14,16 +14,6 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmed-fsociety/Ahmed-fsociety/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmed-fsociety/Ahmed-fsociety/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ahmed-fsociety/Ahmed-fsociety/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/ahmedheshamf/?hl=en" target="_blank">
     <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=222222&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
